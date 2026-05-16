@@ -1,4 +1,4 @@
-mod cli;
+use marbles::cli;
 
 use clap::Parser;
 
